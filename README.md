@@ -1,7 +1,3 @@
----
-typora-root-url: ../DeepFlowGen
----
-
 # DeepFlowGen
 A Py-Torch based implementation for DeepFlowGen, a deep neural network which generates intention-aware crowd flow by PoI (Point of Interest) distribution. The detailed implementation of DeepFlowGen is introduced in paper [*DeepFlowGen: Intention-aware Fine Grained Crowd Flow Generation via Deep Neural Networks*](https://ieeexplore.ieee.org/document/9416248).
 
